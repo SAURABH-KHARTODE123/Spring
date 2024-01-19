@@ -1,0 +1,26 @@
+#Spring 
+1)create maven project 
+ war file ghene 
+2)pom.xml -->Dependency copy paste https madhla s kadhne
+3)maven build install
+4)project right click java EE tool-->Generate Descriptor file
+5)Deployes resources madhy-->WebApp -->data.properties(id,pass,db change) and index.jsp 
+		WEB-INF -->views-->>jsp file paste
+6)src/main.java-->com.demo.controller
+		 com.demo.model
+		 com.demo.dao
+		 com.demo.service
+
+
+#Sprong Boot
+1)create maven project name SpringBootMVC
+war file ghene
+2)pom.xml -->Dependency copy paste https madhla s kadhne
+3)maven build install
+4)maven depedencies chya khali src/main/-->new folder WebApp-->new folder WEB-INF-->views-->.jsp files
+5)src/main/resource-->Application properties(change id,pass,db)
+6)src/main/java-->com.demo pacakge 
+7)com.demo right clck class SpringBootMVC.java
+			model,controller,dao,service packages
+8)com.demo madhla SpringBootMVC vr right click karun run application
+9)chrome-->localhost:portNo/controller madhl naav/method(getProduct)
