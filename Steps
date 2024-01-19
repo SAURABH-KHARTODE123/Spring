@@ -14,7 +14,7 @@
 
 #Sprong Boot
 1)create maven project name SpringBootMVC
-war file ghene
+jar file ghene
 2)pom.xml -->Dependency copy paste https madhla s kadhne
 3)maven build install
 4)maven depedencies chya khali src/main/-->new folder WebApp-->new folder WEB-INF-->views-->.jsp files
